@@ -21,3 +21,6 @@ And the second one is Delete task.
 At the bottom of the page we have included the task count which are present in the list. If task is deleted then the count is decreased, if added then the count increases.
 
 And if we want to clear All then have clear button by clicking on the clear All it will delete all the item present in the list
+
+Application Link:
+https://aryapriyanka11.github.io/Todoapp/
